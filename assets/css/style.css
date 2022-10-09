@@ -19,14 +19,17 @@ h1, h2 {
     font-family: playfair-display, sans-serif;
     text-transform: uppercase; 
     color: #2F3E46;
-    text-decoration: none;
 }
+
 
 #name {
     font-size: 300%;
     text-align: center;
     padding: 20px;
+}
 
+header a {
+    text-decoration: none;
 }
 
 /* navigation links */
