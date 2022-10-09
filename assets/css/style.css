@@ -33,6 +33,7 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
+    padding-bottom: 20px;
     
 }
 
@@ -52,4 +53,12 @@ h1, h2 {
 
 #menu a:hover {
     border-bottom: 1px solid #2F3E46;
+}
+
+/* main image */
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/main-image.jpg) no-repeat center center;
 }
