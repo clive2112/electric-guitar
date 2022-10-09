@@ -6,15 +6,36 @@
     border: none;
 }
 
+body {
+    font-family: roboto, sans-serif;
+    font-weight: 300;
+    color: #354F52;
+}
+
 /* name and headings*/
 
-h1 {
+h1, h2 {
     font-family: playfair-display, sans-serif;
     text-transform: uppercase; 
-    color: #1d3557;
+    color: #2F3E46;
 }
 
 #name {
     font-size: 300%;
     text-align: center;
+    padding: 20px;
+
+}
+
+/* navigation links */
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-left: 250px;
+    
 }
