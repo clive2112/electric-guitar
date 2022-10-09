@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Roboto:wght@500&display=swap');
 
 *{
     margin: 0;
@@ -10,6 +10,7 @@ body {
     font-family: roboto, sans-serif;
     font-weight: 300;
     color: #354F52;
+    background-color: #CAD2C5;
 }
 
 /* name and headings*/
@@ -18,6 +19,7 @@ h1, h2 {
     font-family: playfair-display, sans-serif;
     text-transform: uppercase; 
     color: #2F3E46;
+    text-decoration: none;
 }
 
 #name {
@@ -31,11 +33,23 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
+    
 }
 
 #menu li {
-    float: left;
-    list-style-type: none;
-    margin-left: 250px;
+    vertical-align: top;
+    display: inline-block;
+    width: 5%;
+    margin-left: 230px;
     
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #2F3E46;
 }
