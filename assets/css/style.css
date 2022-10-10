@@ -198,4 +198,5 @@ header a {
     background: url(../images/Les\ Paul.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
+    background-size: cover;
 }
