@@ -33,30 +33,25 @@ header a {
 }
 
 /* navigation links */
-#menu {
-    font-size: 110%;
-    letter-spacing: 2px;
-    padding-bottom: 20px;
-    
+
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #CAD2C5;  
 }
 
-#menu li {
-    vertical-align: top;
-    display: inline-block;
-    width: 5%;
-    margin-left: 230px;
-    
-    
-}
+.flex-container > div {
+    background-color: #CAD2C5;
+    width: 120px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
 
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
 
-#menu a:hover {
-    border-bottom: 1px solid #2F3E46;
-}
 
 /* main image */
 
