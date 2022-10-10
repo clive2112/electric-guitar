@@ -38,6 +38,7 @@ header a {
 .flex-container {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: center;
     background-color: #CAD2C5;  
 }
