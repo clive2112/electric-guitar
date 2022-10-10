@@ -109,23 +109,69 @@ header a {
     padding-top: 20px;
     width: 25%;
     float: left;
-    background-color: aqua;
+   
 }
 #strat {
     padding-top: 20px;
     width: 25%;
     float: left;
-    background-color: aliceblue;
 }
+ 
 #sg {
     padding-top: 20px;
     width: 25%;
     float: left;
-    background-color: chartreuse;
+
 }
+
 #tele {
     padding-top: 20px;
     width: 25%;
     float: left;
-    background-color: crimson;
+    
+}
+
+.les-heading p {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+    color:#354F52
+}
+
+.les-heading h2 {
+    padding: 10px;
+   
+}
+
+.strat-heading p {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.strat-heading h2 {
+    padding: 10px;
+    
+}
+
+.sg-heading p {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.sg-heading h2 {
+    padding: 10px;
+    
+}
+
+.tele-heading p {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.tele-heading h2 {
+    padding: 10px;
+    
 }
