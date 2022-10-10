@@ -192,6 +192,11 @@ header a {
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
+    
+}
+
+.les-heading p{
+    padding-bottom: 30px;
 }
 
 #eliptical-cover-bg {
