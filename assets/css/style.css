@@ -48,10 +48,12 @@ header a {
     margin: 10px;
     text-align: center;
     line-height: 75px;
-    font-size: 30px;
+    font-size: 20px;
   }
 
-
+.flex-container a {
+    color:#354F52;
+}
 
 /* main image */
 
