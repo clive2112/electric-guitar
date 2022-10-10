@@ -92,3 +92,40 @@ header a {
  
     position: absolute;
 }
+
+/* Homage Section */
+
+#homage {
+    height: 400px;
+    text-align: center;
+}
+
+#homage > h1{
+    padding:20px
+    
+}
+
+#les {
+    padding-top: 20px;
+    width: 25%;
+    float: left;
+    background-color: aqua;
+}
+#strat {
+    padding-top: 20px;
+    width: 25%;
+    float: left;
+    background-color: aliceblue;
+}
+#sg {
+    padding-top: 20px;
+    width: 25%;
+    float: left;
+    background-color: chartreuse;
+}
+#tele {
+    padding-top: 20px;
+    width: 25%;
+    float: left;
+    background-color: crimson;
+}
