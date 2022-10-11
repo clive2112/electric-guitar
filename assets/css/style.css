@@ -79,13 +79,13 @@ header a {
     font-family: playfair-display, sans-serif;
     text-transform: uppercase;
     text-align: center;
-    width: 200px;
-    height: 150px;
+    width: 220px;
+    height: 120px;
 
-    padding-top: 40px;
-    padding-left: 10px;
+    padding: 10px 10px;
+   
 
-    background-color: rgba(67, 70, 47, 0.5);
+    background-color: rgba(21,	214, 169, 0.5);
 
     top: 30px;
     right: 30px;
@@ -113,7 +113,6 @@ header a {
     width: 25%;
     float: left;
     
-   
 }
 #strat {
     padding-top: 20px;
