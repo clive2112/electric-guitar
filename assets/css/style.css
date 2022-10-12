@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,600&family=Roboto:wght@500&display=swap');
 
+@font-face {
+    font-family: instruments;
+    src: url(../css/fonts/DjStringed-dnMV.ttf);
+}
 *{
     margin: 0;
     padding: 0;
@@ -338,3 +342,24 @@ header a {
     transition: 0.5s;
  }
 
+
+ /* footer */
+ 
+ footer {
+    height: 150px
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 5%;
+    color: #354F52;
+}
