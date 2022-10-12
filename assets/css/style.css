@@ -312,5 +312,12 @@ header a {
     height: 400px;
     width: 100%;
 }   
+
+/* Artist Gallery */
+
+.artist {
+    height: 600px;
+    width: 100%;
+}
        
  
