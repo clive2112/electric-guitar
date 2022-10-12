@@ -316,12 +316,12 @@ header a {
 /* Artist Gallery */
 
 .artist {
-    height: 2200px;
+    height: 1700px;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-color: aqua;
+    
 }
        
  .artist img {
@@ -331,3 +331,10 @@ header a {
     object-fit: cover;
     object-position: contain;
  }
+
+ .artist img:hover {
+    cursor: pointer;
+    opacity: 0.5;
+    transition: 0.5s;
+ }
+
