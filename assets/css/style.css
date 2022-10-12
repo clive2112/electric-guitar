@@ -279,6 +279,7 @@ header a {
 
 #history-heading {
     margin-left: 30px;
+    margin-top: 80px;
     padding-bottom: 30px;
 }
 
@@ -292,8 +293,24 @@ header a {
 
 #history-section > p { 
     display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 50px;
     margin-right: 50px;
 }
+
+#vintage-image-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: black;
+   
+}
+#vintage-strat {
+    background: url(../images/57\ strat.jpg) no-repeat center center;
+    height: 400px;
+    width: 100%;
+}   
+       
+ 
