@@ -104,38 +104,47 @@ header a {
 }
 
 #homage-heading {
-    padding:20px;
+    padding-top:50px;
+    padding-bottom: 20px;
     font-size: 200%;
 }
 
+.homage-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: teal;  
+}
 
-
+.homage-container > div {
+    background-color: #CAD2C5;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+  }
+/*
 #les {
     padding-top: 20px;
-    width: 25%;
-    float: left;
-    
+    width: 25%;    
 }
 #strat {
     padding-top: 20px;
     width: 25%;
-    float: left;
 }
 
 #sg {
     padding-top: 20px;
-    width: 25%;
-    float: left;
-
+    width: 25%;  
 }
 
 #tele {
     padding-top: 20px;
-    width: 25%;
-    float: left;
-    
+    width: 25%;  
 }
-
+*/
 .les-heading p {
     width: 100%;
     text-align: center;
@@ -145,7 +154,6 @@ header a {
 
 .les-heading h2 {
     padding: 10px;
-   text-decoration: underline;
 }
 
 .strat-heading p {
@@ -156,7 +164,7 @@ header a {
 
 .strat-heading h2 {
     padding: 10px;
-    text-decoration: underline;
+    
     
 }
 
@@ -168,7 +176,7 @@ header a {
 
 .sg-heading h2 {
     padding: 10px;
-    text-decoration: underline;
+    
     
 }
 
@@ -180,7 +188,7 @@ header a {
 
 .tele-heading h2 {
     padding: 10px;
-    text-decoration: underline;
+    
     
 }
 
@@ -195,6 +203,7 @@ header a {
     border-width: 2px;
     border-radius: 50%;
     margin: 0 auto; 
+   
     
 }
 
@@ -207,6 +216,7 @@ header a {
     height: 100%;
     border-radius: 50%;
     background-size: cover;
+    
 }
 #strat-eliptical-container {
     width: 250px;
@@ -221,7 +231,7 @@ header a {
 }
 
 .strat-heading p{
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 #strat-eliptical-cover-bg {
@@ -267,7 +277,7 @@ header a {
 }
 
 .tele-heading p{
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 #tele-eliptical-cover-bg {
