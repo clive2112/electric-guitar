@@ -73,7 +73,7 @@ header a {
 }
 
 #cover-text, #cover-text h2 {
-    color: #CAD2C5;
+    color: white;
 }
 
 #cover-text {
@@ -87,7 +87,7 @@ header a {
     padding: 10px 10px;
    
 
-    background-color: rgba(21,	214, 169, 0.5);
+    background-color: rgba(177,127,157, 0.5);
 
     top: 30px;
     right: 30px;
@@ -125,26 +125,7 @@ header a {
     line-height: 75px;
     font-size: 20px;
   }
-/*
-#les {
-    padding-top: 20px;
-    width: 25%;    
-}
-#strat {
-    padding-top: 20px;
-    width: 25%;
-}
 
-#sg {
-    padding-top: 20px;
-    width: 25%;  
-}
-
-#tele {
-    padding-top: 20px;
-    width: 25%;  
-}
-*/
 .les-heading p {
     width: 100%;
     text-align: center;
