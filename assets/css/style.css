@@ -26,7 +26,8 @@ h1, h2 {
 #name {
     font-size: 300%;
     text-align: center;
-    padding: 20px;
+    padding-top: 100px;
+    padding-bottom: 20px;
 }
 
 header a {
