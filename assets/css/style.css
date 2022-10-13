@@ -98,7 +98,7 @@ header a {
 /* Homage Section */
 
 #homage {
-    height: 550px;
+    height: 600px;
     width: 100%;
     text-align: center;
    
@@ -279,39 +279,47 @@ header a {
 }
 
 #history-section{
-    height: 600px;
+    height: 800px;
     width: 100%;
-    overflow: hidden;
-    position: relative;
+   
+    
+    background-color: red;
    
 }
 
 #history-section > p { 
     display: block;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     margin-left: 50px;
     margin-right: 50px;
 }
 
 #vintage-image-outer {
-    height: 600px;
+    height: 420px;
     width: 100%;
     overflow: hidden;
     position: relative;
     background-color: black;
+    padding: 50px;
    
 }
 #vintage-strat {
     background: url(../images/57\ strat.jpg) no-repeat center center;
-    height: 400px;
+    height: 420px;
     width: 100%;
 }   
 
 /* Artist Gallery */
 
+#artist-heading {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .artist {
-    height: 1700px;
+    height: 1300px;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -320,17 +328,42 @@ header a {
 }
        
  .artist img {
-    width: 300px;
-    height: 400px;
-    padding: 5PX;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
     object-fit: cover;
     object-position: contain;
+    position: relative;
  }
 
  .artist img:hover {
     cursor: pointer;
     opacity: 0.5;
     transition: 0.5s;
+ }
+
+ .artist-names {
+    width: 100%;
+    
+    margin-top: -40%;
+    
+ }
+
+ .artist-names h3{
+    font-family: playfair-display;
+    
+    
+    color: white;
+    font-size: 20px;
+    
+ }
+ .artist-names p {
+    font-family: playfair-display;
+    
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
  }
 
 
