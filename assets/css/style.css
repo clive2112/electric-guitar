@@ -116,13 +116,14 @@ header a {
     display: flex;
     /*flex-direction: row;
     flex-wrap: wrap;*/
+    flex-flow: row wrap;
     justify-content: center;
     background-color: teal;  
 }
 
 .homage-container > div {
     background-color: yellow;
-    width: 20%;
+    width: 280px;
     margin: 10px;
     text-align: center;
     line-height: 75px;
