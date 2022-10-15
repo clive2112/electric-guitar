@@ -272,6 +272,7 @@ header a {
     height: 100%;
     border-radius: 50%;
     background-size: cover;
+    
 }
 
 /* History Section */
@@ -300,20 +301,50 @@ header a {
 }
 
 #vintage-image-outer {
-    height: 420px;
+    display: flex;
+    height: auto;
     width: 100%;
-    overflow: hidden;
-    /*position: relative;*/
+    /*overflow: hidden;*/
+    position: relative;
     background-color: black;
-    padding-top: 50px;
+    /*padding-top: 50px;*/
    
 }
 #vintage-strat {
-    background: url(../images/57\ strat.jpg) no-repeat center center;
-    height: 420px;
-    width: 100%;
+    /*background: url(../images/57\ strat.jpg) no-repeat center center;*/
+    height: auto;
+    max-width: 80%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
     
-}   
+
+    
+}  
+
+/*.image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+width: 100%;
+height: 100%;
+background: (0,0,0,0.6);
+color: white;
+font-family: playfair-display, sans-serif;
+display: flex;
+align-items: center;
+justify-content: center;
+opacity: 0;
+}
+.image-overlay:hover{
+opacity: 1;
+}
+.vintage-57 {
+    font-size: 2em;
+    font-weight: bold;
+}*/
 
 /* Artist Gallery */
 
@@ -347,7 +378,7 @@ header a {
     transition: 0.5s;
  }
 
- .artist-names {
+ /*.artist-names {
     width: 100%;
     
     margin-top: -40%;
@@ -369,7 +400,7 @@ header a {
     color: white;
     font-size: 20px;
     
- }
+ }*/
 
 
  /* footer */
