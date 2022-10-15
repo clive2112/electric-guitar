@@ -118,11 +118,11 @@ header a {
     flex-wrap: wrap;*/
     flex-flow: row wrap;
     justify-content: center;
-    background-color: teal;  
+    background-color: #CAD2C5;  
 }
 
 .homage-container > div {
-    background-color: yellow;
+    background-color: #CAD2C5;
     width: 280px;
     margin: 10px;
     text-align: center;
@@ -317,7 +317,7 @@ header a {
     width: 100%;
    
     
-    background-color: red;
+    background-color: #CAD2C5;
    
 }
 
