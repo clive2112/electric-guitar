@@ -134,27 +134,47 @@ header a {
     width: 100%;
     text-align: center;
     line-height: 20px;
-    
     color:#354F52
+}
+
+.les-heading p a {
+    color:#354F52
+}
+
+.les-heading p a:hover {
+    color:red
 }
 
 .les-heading h2 {
     padding: 10px;
     width: 100%;
+    
+}
+.les-heading h2 a {
+    color:#354F52
 }
 
 .strat-heading p {
     width: 100%;
     text-align: center;
     line-height: 20px;
-    
     color:#354F52
+}
+
+.strat-heading p a {
+    color:#354F52
+}
+.strat-heading p a:hover {
+    color:red;
 }
 
 .strat-heading h2 {
     padding: 10px;
-    width: 100%;
-    
+    width: 100%;  
+}
+
+.strat-heading h2 a {
+    color: #354F52;  
 }
 
 .sg-heading p {
@@ -169,6 +189,11 @@ header a {
     
 }
 
+.sg-heading h2 a{
+    color: #354F52;
+    
+}
+
 .tele-heading p {
     width: 100%;
     text-align: center;
@@ -180,7 +205,10 @@ header a {
     width: 100%;
     
 }
-
+.tele-heading h2 a {
+    color: #354F52;
+    
+}
 /* homage images */
 
 #les-eliptical-container {
