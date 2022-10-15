@@ -38,6 +38,7 @@ header a {
 
 
 .flex-container {
+    width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -113,14 +114,14 @@ header a {
 .homage-container {
     width: 100%;
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+    /*flex-direction: row;
+    flex-wrap: wrap;*/
     justify-content: center;
     background-color: teal;  
 }
 
 .homage-container > div {
-    background-color: #CAD2C5;
+    background-color: yellow;
     width: 20%;
     margin: 10px;
     text-align: center;
@@ -138,17 +139,20 @@ header a {
 
 .les-heading h2 {
     padding: 10px;
+    width: 100%;
 }
 
 .strat-heading p {
     width: 100%;
     text-align: center;
     line-height: 20px;
+    
+    color:#354F52
 }
 
 .strat-heading h2 {
     padding: 10px;
-    
+    width: 100%;
     
 }
 
@@ -160,7 +164,7 @@ header a {
 
 .sg-heading h2 {
     padding: 10px;
-    
+    width: 100%;
     
 }
 
@@ -172,14 +176,14 @@ header a {
 
 .tele-heading h2 {
     padding: 10px;
-    
+    width: 100%;
     
 }
 
 /* homage images */
 
 #les-eliptical-container {
-    width: 250px;
+    width: 80%;
     height: 250px;
     padding: 5px;
     border-style: solid;
@@ -203,7 +207,7 @@ header a {
     
 }
 #strat-eliptical-container {
-    width: 250px;
+    width: 80%;
     height: 250px;
     padding: 5px;
     border-style: solid;
@@ -226,7 +230,7 @@ header a {
 }
 
 #sg-eliptical-container {
-    width: 250px;
+    width: 80%;
     height: 250px;
     padding: 5px;
     border-style: solid;
@@ -249,7 +253,7 @@ header a {
 }
 
 #tele-eliptical-container {
-    width: 250px;
+    width: 80%;
     height: 250px;
     padding: 5px;
     border-style: solid;
@@ -299,15 +303,16 @@ header a {
     height: 420px;
     width: 100%;
     overflow: hidden;
-    position: relative;
+    /*position: relative;*/
     background-color: black;
-    padding: 50px;
+    padding-top: 50px;
    
 }
 #vintage-strat {
     background: url(../images/57\ strat.jpg) no-repeat center center;
     height: 420px;
     width: 100%;
+    
 }   
 
 /* Artist Gallery */
