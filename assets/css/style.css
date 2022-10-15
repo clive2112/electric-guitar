@@ -481,3 +481,33 @@ opacity: 1;
     opacity: 0.5;
 }
 
+/* form submit landing page */
+#form-complete{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;  
+}
+
+#form-complete h2{
+    font-size: 300%;
+    color: #354F52;
+    padding: 100px;
+    
+}
+
+#form-complete a{
+    border-radius: 5px;
+    padding: 100px;
+    text-align: center;
+    font-family: playfair-display, sans-serif;
+    font-size: 300%;
+    text-decoration: none;
+    color: #354F52;
+}
+
+#form-complete button a{
+    text-decoration: none;
+}
