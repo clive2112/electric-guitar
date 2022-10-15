@@ -26,7 +26,7 @@ h1, h2 {
 #name {
     font-size: 300%;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 60px;
     padding-bottom: 20px;
 }
 
@@ -41,7 +41,7 @@ header a {
     width: 100%;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
     justify-content: center;
     background-color: #CAD2C5;  
 }
@@ -49,9 +49,9 @@ header a {
 .flex-container > div {
     background-color: #CAD2C5;
     width: 120px;
-    margin: 10px;
+    /*margin: 10px;*/
     text-align: center;
-    line-height: 75px;
+    line-height: 65px;
     font-size: 20px;
   }
 
@@ -285,7 +285,7 @@ header a {
 }
 
 #history-section{
-    height: 800px;
+    height: auto;
     width: 100%;
    
     
@@ -356,7 +356,7 @@ opacity: 1;
 }
 
 .artist {
-    height: 1300px;
+    height: auto;
     width: 100%;
     display: flex;
     flex-wrap: wrap;
@@ -365,8 +365,8 @@ opacity: 1;
 }
        
  .artist img {
-    width: 200px;
-    height: 300px;
+    width: 180px;
+    height: 280px;
     padding: 10px;
     object-fit: cover;
     object-position: contain;
