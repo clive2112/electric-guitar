@@ -1,4 +1,4 @@
-#Electric Guitar 
+# Electric Guitar 
  
 This Electric Guitar website is a website for people who are interested in electric guitars, including a brief history, main electric guitar types and an artist gallery.
 Users of this website will be able to view various electric guitar types, read some information about types of electric guitar. They can read information on guitar manufacturers.
