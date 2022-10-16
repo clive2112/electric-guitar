@@ -169,6 +169,16 @@ The history text  is from  [www.mentalitch.com] using the link (https://mentalit
 The vintage strat image is from a standard image browser using the link (https://duckduckgo.com/?q=relic+1957+fender&t=newext&atb=v248-1&iar=images&iaf=size%3ALarge&iax=images&ia=images&iai=https%3A%2F%2Fimages.reverb.com%2Fimage%2Fupload%2Fs--RkZZ6WcC--%2Fa_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_1600%2Cq_80%2Cw_1600%2Fv1447799284%2Fdhrhi4uipmsjeni0d9bk.jpg)
 
 
+## Code
+* [W3Schools](https://www.w3schools.com/) was referenced throughout my project for different tags & syntax.
+* [W3Schools Flexbox](https://www.w3schools.com/csS/css3_flexbox.asp) was referenced throughout my project for different tags & syntax.
+* [Love Running](https://github.com/clive2112/love-running) was referenced throughout development.
+* [Youtube - Image Overlay](https://www.youtube.com/watch?v=exb2ab72Xhs&t=343s) referenced in the gallery section.
+* [Youtube - a tag](https://www.youtube.com/watch?v=ztNR3FqdNzU&t=61s) to understand the anchor tag.
+* [Youtube - Flexbox Gallery](https://www.youtube.com/watch?v=QmZNFnqwu74) referenced when creating the gallery.
+* [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce) HTML & CSS module.
+
+
 
 
 
