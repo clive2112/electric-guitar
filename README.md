@@ -62,3 +62,4 @@ All images are related to the electric guitar and guitat players. The main image
 
 ## The Artist Section
 * The artist section has a gallery of guitar players with their chosen guitar. When the user clicks on an image, a link to additional image on the artist is provided.
+![image](https://user-images.githubusercontent.com/111641748/196046486-a30993fb-f7ff-46ea-ad4c-ef6d63cf6cd0.png)
