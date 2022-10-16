@@ -4,6 +4,42 @@ This Electric Guitar website is a website for people who are interested in elect
 Users of this website will be able to view various electric guitar types, read some information about types of electric guitar. They can read information on guitar manufacturers.
 There is an artist gallery of images with links to further information on each guitarist. This site is targeted towards people who have an interest in the electric guitar.
 
+ **Table Of Contents**
+    * [User Stories](#user-stories)
+        * [First Time Visitor Goals](#first-time-visitor-goals)
+        * [Structure](#structure)
+    * [Design](#design)
+        * [Colour Scheme](#colour-scheme)
+        * [Typography](#typography)
+        * [Imagery](#imagery)
+        * [Wireframes](#wireframes)
+* [Features](#features)
+    * [Navigation](#navigation)
+    * [About Section](#the-about-section)
+    * [History Section](#the-history-section)
+    * [Artist Section](#the-artist-section)
+    * [Sign Up](#newsletter-form)
+    * [Footer](#the-footer)
+
+* [Testing](#testing)
+    * [Lighthouse Testing](#lighthouse-testing)
+    * [Validator Testing](#validator-testing)
+    * [Manual Testing](#manual-testing)
+    * [Bugs Identified During Development](#bugs-identified-during-development)
+
+* [Technologies Used](#technologies-used)
+* [Deployment](#deployment)
+    * [Project Creation](#project-creation)
+    * [GitHub Pages](#deployment-to-github-pages)
+    * [Run Locally](#run-locally)
+
+* [Credits/References](#creditsreferences)
+    * [Content & Media](#content--media)
+    * [Code](#code)
+    * [Achknowledgements](#achknowledgements)
+
+
+
 # User Stories
 ## First Time Visitor Goals
 * As a first time user, I want to understand the purpose of the site & learn some basic information about the electric guitar.
