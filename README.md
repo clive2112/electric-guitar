@@ -115,6 +115,17 @@ testing with the W3C Markup Validator. I fixed the errors and warnings, most of 
 * It took me awhile to figure out how to overide the default purple on the 'a' tags. I eventually targeted the correct selector in css & solved this issue.
 * At this stage, I am not fully comfortable coding correctly to ensure responsive design.
 
+# Technologies Used
+* [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+* [Google Fonts](https://fonts.google.com/)
+* [Github](https://github.com/clive2112/electric-guitar)
+* [GitPod](https://gitpod.io/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
+* [Font Awesome](https://fontawesome.com/)
+
+
 
 
 
