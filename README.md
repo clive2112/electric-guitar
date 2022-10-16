@@ -86,4 +86,22 @@ testing with the W3C Markup Validator. I fixed the errors and warnings, most of 
 * CSS styling was validated using the W3C CSS Validation Service. I had one error where I was using a redundant styling element, I removed this from my code.
 ![image](https://user-images.githubusercontent.com/111641748/196054658-3967467b-0fb9-4d37-9dc9-60387ad8ef9c.png)
 
+## Manual Testing
+| Feature                 | Expect                                                 | Action             | Result            |
+| -------------           | -------------                                          | ------------------ | -------           |
+| About Navbar Button    | When clicked the page scrolls to the 'about' section  | Clicked 'about' button on navbar      | Page scrolled to 'about' section             |
+| History Navbar Button    | When clicked the page scrolls to the 'history' section  | Clicked 'history' button on navbar      | Page scrolled to 'history' section             |
+| Gallery Navbar Button    | When clicked the page scrolls to the 'gallery' section  | Clicked 'gallery' button on navbar      | Page scrolled to 'gallery' section             |
+| Sign Up Navbar Button    | When clicked the page scrolls to the 'sign up' section  | Clicked 'sign up' button on navbar      | Page scrolled to 'sign up' section             |
+| About section - les paul link    | When the 'Les Paul' link is clicked, site with additional information opens in a seperate tab  | Clicked 'LES PAUL' link in about section      | Page with additional information opened in a new tab.             |
+| About section - les paul link    | When the 'Les Paul' link is clicked, site with additional information opens in a seperate tab  | Clicked 'LES PAUL' link in about section      | Page with additional information opened in a new tab.             |
+| About section - stratocaster link    | When the 'stratocaster' link is clicked, site with additional information opens in a seperate tab  | Clicked 'STRATOCASTER' link in about section      | Page with additional information opened in a new tab.             |
+| About section - sg link    | When the 'sg' link is clicked, site with additional information opens in a seperate tab  | Clicked 'SG' link in about section      | Page with additional information opened in a new tab.             |
+| About section - telecaster link    | When the 'telecaster' link is clicked, site with additional information opens in a seperate tab  | Clicked 'TELECASTER' link in about section      | Page with additional information opened in a new tab.             |
+| Responsive Navbar    | When the screen size is reduced, the nav elements should be aligned beside eachother & readable| Used ChromeDev Tools to reduce page size gradually      |  Nav elements and navbar was responsive            |
+| Form Submission   | When the submit button is clicked, the user is brought to a new page  | Typed 'clive' in the  name input field. Typed 'clive@email' in the email field. Clicked the submit button     | Brought to a new page, form submitted successfully            |
+| Form Validation - email    | When an invalid email is entered, the form does not submit  | Typed 'clive' in the  name input field. Typed 'test email' in the email field.      | Form did not submit, received pop up warning that email was invalid           |
+| Form Validation - empty fields  | When a field is left blank, the form does not submit   |  Typed 'clive' in the name input field. Typed '' in the email field.    | Form did not submit, received pop up warning that the field is required            |
+
+
 
