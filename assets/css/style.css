@@ -59,6 +59,11 @@ header a {
     color:#354F52;
 }
 
+.flex-container a:hover {
+    color:purple;
+    font-size: 125%;
+}
+
 /* main image and cover text*/
 
 #main-image-outer {
