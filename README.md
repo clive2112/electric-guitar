@@ -103,5 +103,18 @@ testing with the W3C Markup Validator. I fixed the errors and warnings, most of 
 | Form Validation - email    | When an invalid email is entered, the form does not submit  | Typed 'clive' in the  name input field. Typed 'test email' in the email field.      | Form did not submit, received pop up warning that email was invalid           |
 | Form Validation - empty fields  | When a field is left blank, the form does not submit   |  Typed 'clive' in the name input field. Typed '' in the email field.    | Form did not submit, received pop up warning that the field is required            |
 
+## Bugs Identified During Development
+* Image would not load as the file type was a gif. Changed image to JPG to resolve.
+* I used an input type 'text' instead of 'email' in sign up form.
+* I originally used inline block to style the nav element. I updated this to use flexbox as it is more responsive.
+* I originally used inline block to style the footer element. I updated this to use flexbox as it is more responsive.
+* As this is my first time using HTML / CSS, I found it difficult to differentiate the various sections, divs etc. As a temporary solution, I added garish colors to make the sections more identifiable. I removed the colours once each section/div was clear to me.
+* When linking the different IDs in the navbar, I was missing a '#' in the form href attribute, meaning the link was not working correctly. I added the '#' to identify the form section.
+* I attempted to add text to the artist gallery, I got bogged down trying to find the correct format for the HTML code & eventually discarded this idea.
+* I removed radio buttons from the form as I could not validate these using pure HTML & CSS.
+* It took me awhile to figure out how to overide the default purple on the 'a' tags. I eventually targeted the correct selector in css & solved this issue.
+* At this stage, I am not fully comfortable coding correctly to ensure responsive design.
+
+
 
 
