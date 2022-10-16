@@ -189,6 +189,7 @@ The vintage strat image is from a standard image browser using the link (https:/
 
 ## Achknowledgements
 My daughter is a student on this course & was of great inspiration.
+I referenced some of her [previous projects](https://github.com/emmaC11).
 
 
 
