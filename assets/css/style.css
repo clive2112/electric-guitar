@@ -425,7 +425,7 @@ a.esquire:hover {
       background-color:#CAD2C5
     }
     
-    input[type=text], input[type=submit] {
+    input[type=text], input[type=submit], input[type=email] {
       width: 100%;
       padding: 12px;
       margin: 8px 0;
