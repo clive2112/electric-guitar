@@ -49,3 +49,8 @@ All images are related to the electric guitar and guitat players. The main image
 * The navigation has a dark green text colour and to make it visible over the pastel green background colour.
 * The navigation indicates the website's topics and makes the different sections of information easy to locate.
 ![image](https://user-images.githubusercontent.com/111641748/196044654-4fed4d74-2398-400b-8d52-51b52aa4d9af.png)
+
+## The About Section
+* The movie section gives the user basic details about different types of guitar.
+* The title and images of guitar are displayed, with links provided to the guitar brand and model.
+![image](https://user-images.githubusercontent.com/111641748/196045436-b2900bb4-a628-42d5-a8f3-71f3feee4261.png)
