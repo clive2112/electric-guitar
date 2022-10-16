@@ -68,3 +68,9 @@ All images are related to the electric guitar and guitat players. The main image
 * The sign up form allows user to sign up to the fictional Newsletterb which proposes to keep them up-to date with musings on the electric guitar. When the form is submitted, the user is brought to a page where they have the option to return to the website. Form validation is implemented, the form cannot be submitted if the fields are left empty and if the user does not provide valid syntax for an email address.
 
 ![image](https://user-images.githubusercontent.com/111641748/196046952-9687e5f8-aa09-4b6b-9fa0-92c03c473a4c.png)
+
+## The Footer
+* The footer section includes links to social media sites that may be relevant to the electric guitar. The links open a new tab to allow easy navigation for the user.
+* The footer encourages users to keep up to date and connected via social media.
+
+![image](https://user-images.githubusercontent.com/111641748/196047221-51ccf104-95e1-4e98-8615-cacd842208d3.png)
