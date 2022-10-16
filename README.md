@@ -29,3 +29,22 @@ The History section contains some basic information about the history of the ele
 
 The Artist section contains images of various guitarists and the guitars they play. Each is linked to more detailed information about said guitarist.
 >As a first time user, I want to learn about the different guitarists and their preferred guitars.
+
+# Design
+## Colour Scheme
+The two main colours used throughout the website are a pastel green (#CAD2C5) for background, a dark green (#354F52) for text, and purple (#800080) for links, as these colours compliment each other and are .
+pastel
+## Typography
+The headers throughout the website are using the Playfair-Display font and the main body text is using the Roboto font.
+
+## Imagery
+All images are related to the electric guitar and guitat players. The main image is of a music shop, which is where a lot of guitars reside. The size of the logo image varies on screen size. All artist images are of famous guitarists designed to capture visual interest of the user and keep a consistent theme.
+
+# **Features**
+
+
+## Navigation
+* At the top of the page, is the main heading and title of the page with the navigation links below.
+* The navigation links are positioned below the main heading in the centre of the screen: About, History, Artists & Sign Up which link to different sections on the same page.
+* The navigation has a dark green text colour and to make it visible over the pastel green background colour.
+* The navigation indicates the website's topics and makes the different sections of information easy to locate.
