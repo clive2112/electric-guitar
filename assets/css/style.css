@@ -142,7 +142,9 @@ header a {
 }
 
 .les-heading p a:hover {
-    color:red
+    color:purple;
+    text-decoration: underline;
+    
 }
 
 .les-heading h2 {
@@ -151,8 +153,17 @@ header a {
     
 }
 .les-heading h2 a {
-    color:#354F52
+    color:#354F52;
+    
+    
 }
+
+.les-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;
+    
+}
+
 
 .strat-heading p {
     width: 100%;
@@ -165,7 +176,8 @@ header a {
     color:#354F52
 }
 .strat-heading p a:hover {
-    color:red;
+    color:purple;
+    text-decoration: underline;
 }
 
 .strat-heading h2 {
@@ -175,6 +187,11 @@ header a {
 
 .strat-heading h2 a {
     color: #354F52;  
+}
+
+.strat-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;  
 }
 
 .sg-heading p {
@@ -194,6 +211,11 @@ header a {
     
 }
 
+.sg-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;
+}
+
 .tele-heading p {
     width: 100%;
     text-align: center;
@@ -208,6 +230,11 @@ header a {
 .tele-heading h2 a {
     color: #354F52;
     
+}
+
+.tele-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;
 }
 /* homage images */
 
