@@ -158,6 +158,16 @@ I used the following commands throughout the development of this project:
 6. A clone of the project will be created locally on your machine.
 **Note** - git commands only work if git is installed on your machine. Find installation documentation [here](https://git-scm.com/).
 
+# **Credits/References**
+## Content & Media
+I used 'Wikipedia' for all Guitar, Guitar manufacturer and individual artist links.
+The Les Paul image is from [www.nstuffmusic.com] using the link ( https://www.nstuffmusic.com/images/product/medium/ae00-50087.jpg)
+The Stratocaster image is from [www.suredone.com] using the link ( https://assets.suredone.com/2163/media-pics/ss3284-fender-custom-shop-60-stratocaster-heavy-relic-aged-olympic-white-guitar-4.jpeg)
+The SG image is from [www.gearnews.com] using the link (https://www.gearnews.com/wp-content/uploads/2018/03/Gibson-Gary-Clark-Jr.-Signature-SG-in-Vintage-Cherry-with-three-P90sjpg-425x425.jpg)
+The Tele image is from [www.reverb.com] using the link (https://images.reverb.com/image/upload/s--H_2Pd4Fw--/f_auto,t_large/v1542321851/ob5w4pggq5cda4zgr3ac.png)
+The history text  is from  [www.mentalitch.com] using the link (https://mentalitch.com/a-brief-history-of-the-electric-guitar/)and [www.yamaha.com] using the link (https://www.yamaha.com/en/musical_instrument_guide/electric_guitar/structure/)
+The vintage strat image is from a standard image browser using the link (https://duckduckgo.com/?q=relic+1957+fender&t=newext&atb=v248-1&iar=images&iaf=size%3ALarge&iax=images&ia=images&iai=https%3A%2F%2Fimages.reverb.com%2Fimage%2Fupload%2Fs--RkZZ6WcC--%2Fa_exif%2Cc_limit%2Ce_unsharp_mask%3A80%2Cf_auto%2Cfl_progressive%2Cg_south%2Ch_1600%2Cq_80%2Cw_1600%2Fv1447799284%2Fdhrhi4uipmsjeni0d9bk.jpg)
+
 
 
 
