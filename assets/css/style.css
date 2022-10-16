@@ -424,9 +424,7 @@ a.esquire:hover {
     .container {
       padding: 5px;
       background-color:#CAD2C5
-      
     }
-    
     
     input[type=text], input[type=submit] {
       width: 100%;
@@ -440,11 +438,9 @@ a.esquire:hover {
       justify-content: center;
     }
     
-    
     input[type=checkbox] {
       margin-top: 16px;
     }
-    
     
     input[type=submit] {
       background-color: #04AA6D;
@@ -460,32 +456,26 @@ a.esquire:hover {
  
  footer {
     height: 150px
-     
 }
 
 .footer-container {
     width: 100%;
     display: flex;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
     justify-content: center;
-    /*align-items: center;*/
     background-color: #CAD2C5;
 }
 
 .footer-container > div {
     background-color: #CAD2C5;
     width: 120px;
-    /*margin: 10px;
-    align-items: center;*/
     line-height: 65px;
     font-size: 65px;
     padding-top: 20px;
-  }
+}
 
 .footer-container a {
-    color:#354F52;
-    
+    color:#354F52;  
 }
 .footer-container a:hover{
     opacity: 0.5;
@@ -504,8 +494,7 @@ a.esquire:hover {
 #form-complete h2{
     font-size: 300%;
     color: #354F52;
-    padding: 100px;
-    
+    padding: 100px; 
 }
 
 #form-complete a{
