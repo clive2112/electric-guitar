@@ -179,6 +179,8 @@ The vintage strat image is from a standard image browser using the link (https:/
 * [Code Institute](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce) HTML & CSS module.
 
 
+## Achknowledgements
+My daughter is a student on this course & was of great inspiration.
 
 
 
