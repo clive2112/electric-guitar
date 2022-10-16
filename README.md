@@ -40,6 +40,14 @@ The headers throughout the website are using the Playfair-Display font and the m
 ## Imagery
 All images are related to the electric guitar and guitat players. The main image is of a music shop, which is where a lot of guitars reside. The size of the logo image varies on screen size. All artist images are of famous guitarists designed to capture visual interest of the user and keep a consistent theme.
 
+## Wireframes
+These were inital designs, I refactored these throughout development.
+
+![image](https://user-images.githubusercontent.com/111641748/196057326-c42a69f5-36ad-4d4b-9418-e44f88e4889d.png)
+![image](https://user-images.githubusercontent.com/111641748/196057359-33926760-ad4c-451e-8907-a8859f3d2efe.png)
+
+
+
 # **Features**
 
 
