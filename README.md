@@ -59,3 +59,6 @@ All images are related to the electric guitar and guitat players. The main image
 ## The History Section
 * The history section gives the user details a very brief overview of the history of the electric guitar, coupled with an image of a vintage guitar. Contained within the text are links to specific personnel and model.
 ![image](https://user-images.githubusercontent.com/111641748/196045765-de842ec2-81ff-46b9-94f7-60189cc6df52.png)
+
+## The Artist Section
+* The artist section has a gallery of guitar players with their chosen guitar. When the user clicks on an image, a link to additional image on the artist is provided.
