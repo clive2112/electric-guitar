@@ -155,7 +155,7 @@ I used the following commands throughout the development of this project:
 5. Select 'main' branch as the source.
 6. Click 'save'.
 7. Click the link provided to go to the deployed website.
-8. The live link can be found here - [PP1-starwars](https://github.com/clive2112/electric-guitar).
+8. The live link can be found here - [electric-guitar](https://github.com/clive2112/electric-guitar).
 
 ## Run Locally
 1. Locate the [GitHub Repository](https://github.com/clive2112/electric-guitar).
