@@ -48,3 +48,4 @@ All images are related to the electric guitar and guitat players. The main image
 * The navigation links are positioned below the main heading in the centre of the screen: About, History, Artists & Sign Up which link to different sections on the same page.
 * The navigation has a dark green text colour and to make it visible over the pastel green background colour.
 * The navigation indicates the website's topics and makes the different sections of information easy to locate.
+![image](https://user-images.githubusercontent.com/111641748/196044654-4fed4d74-2398-400b-8d52-51b52aa4d9af.png)
