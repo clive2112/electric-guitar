@@ -125,6 +125,39 @@ testing with the W3C Markup Validator. I fixed the errors and warnings, most of 
 * [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 * [Font Awesome](https://fontawesome.com/)
 
+# **Deployment**
+## Project Creation
+This project was created using Gitpod, Gitpod provides prebuilt development environments with a variety of IDEs. 
+
+To use Gitpod, install the Gitpod extension on either Firefox or Chrome. When the extension is installed, it adds a green Gitpod button to Github, where we can click to create a workspace in Gitpod.
+
+For this project, I used the Visual Studio IDE. I used the prebuilt environment provided by [Code Institue](https://github.com/Code-Institute-Org/gitpod-full-template) to start this project. I clicked the 'use this template' button and named my repository 'electric-guitar'. I then created a Gitpod workspace by clicking the green gitpod button in my [electric-guitar](https://github.com/clive2112/electric-guitar) repository.
+
+I used the following commands throughout the development of this project:
+* **python3 -m http.server**  - This command runs a local webserver to view the project.
+* **git add .** - This command adds all the changes that have been in the working directory to the staging area. Ready to be committed.
+* **git commit -m ""** - This command is used to write descriptive messages of what changes have been made to the code and commits the changes to the local repository.
+* **git push** - This command pushes all the committed changes to the Github repository.
+
+## Deployment to GitHub Pages
+1. Navigate to [GitHub Repository](https://github.com/clive2112/electric-guitar)
+2. Click the 'Settings' tab.
+3. Scroll down to the 'pages' tab on the navigation bar.
+4. Open the 'Pages' tab.
+5. Select 'main' branch as the source.
+6. Click 'save'.
+7. Click the link provided to go to the deployed website.
+8. The live link can be found here - [PP1-starwars](https://github.com/clive2112/electric-guitar).
+
+## Run Locally
+1. Locate the [GitHub Repository](https://github.com/clive2112/electric-guitar).
+2. Click the 'Code' dropdown button.
+3. Copy the git URL from the HTTPS text bar.
+4. Open a terminal window and locate the directory where you want to store the project.
+5. Type the 'git clone' command in the terminal, then paste the git URL. Click return on your keyboard to enter the command.
+6. A clone of the project will be created locally on your machine.
+**Note** - git commands only work if git is installed on your machine. Find installation documentation [here](https://git-scm.com/).
+
 
 
 
