@@ -85,6 +85,12 @@ These were inital designs, I refactored these throughout development.
 
 
 # **Testing**
+
+## Lighthouse Testing
+* The Lighthouse tool in Chrome DevTools is used to test a websites performance & accessibility. It is an open-source automated tool used to improve the quality of webpages. 
+When I tested my website, I had poor performance as the landing image file size was over 2mb, I compressed the image to reduce the overall file size. This increased the performance significantly.
+![image](https://user-images.githubusercontent.com/111641748/196058080-96f6166f-8b97-4501-a5ed-3fded3280c8f.png)
+
 ## Validator Testing
 * To verify that the HTML code written following the expected standards, I conducted validator
 testing with the W3C Markup Validator. I fixed the errors and warnings, most of my errors were missing closing tags.
@@ -132,6 +138,7 @@ testing with the W3C Markup Validator. I fixed the errors and warnings, most of 
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator)
 * [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
 * [Font Awesome](https://fontawesome.com/)
+* [Image Compressor](https://www.img2go.com/result#j=098a3003-d39c-474f-8a44-1387375ed506)
 
 # **Deployment**
 ## Project Creation
