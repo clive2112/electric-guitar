@@ -4,15 +4,15 @@ This Electric Guitar website is a website for people who are interested in elect
 Users of this website will be able to view various electric guitar types, read some information about types of electric guitar. They can read information on guitar manufacturers.
 There is an artist gallery of images with links to further information on each guitarist. This site is targeted towards people who have an interest in the electric guitar.
 
- **Table Of Contents**
-    * [User Stories](#user-stories)
-        * [First Time Visitor Goals](#first-time-visitor-goals)
-        * [Structure](#structure)
-    * [Design](#design)
-        * [Colour Scheme](#colour-scheme)
-        * [Typography](#typography)
-        * [Imagery](#imagery)
-        * [Wireframes](#wireframes)
+# **Table Of Contents**
+* [User Stories](#user-stories)
+    * [First Time Visitor Goals](#first-time-visitor-goals)
+    * [Structure](#structure)
+* [Design](#design)
+    * [Colour Scheme](#colour-scheme)
+    * [Typography](#typography)
+    * [Imagery](#imagery)
+    * [Wireframes](#wireframes)
 * [Features](#features)
     * [Navigation](#navigation)
     * [About Section](#the-about-section)
