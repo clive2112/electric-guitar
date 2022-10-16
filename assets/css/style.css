@@ -356,6 +356,28 @@ header a {
     margin-right: 50px;
 }
 
+a.leo {
+    font-style: italic;
+    color: #354F52;
+    font-weight: bold;   
+}
+
+a.leo:hover {
+    font-size: 125%;
+    color: purple;   
+}
+
+a.esquire {
+    font-style: italic;
+    color: #354F52;
+    font-weight: bold;
+}
+
+a.esquire:hover {
+    font-size: 125%;
+    color: purple;   
+}
+
 #vintage-image-outer {
     display: flex;
     height: auto;
