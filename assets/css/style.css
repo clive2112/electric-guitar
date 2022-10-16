@@ -9,7 +9,6 @@
 
 html {
     scroll-behavior: smooth;
-    
 }
 
 body {
@@ -27,7 +26,6 @@ h1, h2 {
     color: #2F3E46;
 }
 
-
 #name {
     font-size: 300%;
     text-align: center;
@@ -41,12 +39,10 @@ header a {
 
 /* navigation links */
 
-
 .flex-container {
     width: 100%;
     display: flex;
     flex-direction: row;
-    /*flex-wrap: wrap;*/
     justify-content: center;
     background-color: #CAD2C5;  
 }
@@ -94,15 +90,10 @@ header a {
     text-align: center;
     width: 220px;
     height: 120px;
-
     padding: 10px 10px;
-   
-
     background-color: rgba(177,127,157, 0.5);
-
     top: 30px;
     right: 30px;
- 
     position: absolute;
 }
 
@@ -112,7 +103,6 @@ header a {
     height: auto;
     width: 100%;
     text-align: center;
-   
 }
 
 #homage-heading {
@@ -124,8 +114,6 @@ header a {
 .homage-container {
     width: 100%;
     display: flex;
-    /*flex-direction: row;
-    flex-wrap: wrap;*/
     flex-flow: row wrap;
     justify-content: center;
     background-color: #CAD2C5;  
@@ -138,7 +126,21 @@ header a {
     text-align: center;
     line-height: 75px;
     font-size: 20px;
-  }
+}
+
+.les-heading h2 {
+    padding: 10px;
+    width: 100%; 
+}
+
+.les-heading h2 a {
+    color:#354F52; 
+}
+
+.les-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;  
+}
 
 .les-heading p {
     width: 100%;
@@ -152,40 +154,6 @@ header a {
 }
 
 .les-heading p a:hover {
-    color:purple;
-    text-decoration: underline;
-    
-}
-
-.les-heading h2 {
-    padding: 10px;
-    width: 100%;
-    
-}
-.les-heading h2 a {
-    color:#354F52;
-    
-    
-}
-
-.les-heading h2 a:hover {
-    color:purple;
-    text-decoration: underline;
-    
-}
-
-
-.strat-heading p {
-    width: 100%;
-    text-align: center;
-    line-height: 20px;
-    color:#354F52
-}
-
-.strat-heading p a {
-    color:#354F52
-}
-.strat-heading p a:hover {
     color:purple;
     text-decoration: underline;
 }
@@ -204,24 +172,47 @@ header a {
     text-decoration: underline;  
 }
 
+.strat-heading p {
+    width: 100%;
+    text-align: center;
+    line-height: 20px;
+    color:#354F52
+}
+
+.strat-heading p a {
+    color:#354F52
+}
+
+.strat-heading p a:hover {
+    color:purple;
+    text-decoration: underline;
+}
+
+.sg-heading h2 {
+    padding: 10px;
+    width: 100%; 
+}
+
+.sg-heading h2 a{
+    color: #354F52; 
+}
+
+.sg-heading h2 a:hover {
+    color:purple;
+    text-decoration: underline;
+}
+
 .sg-heading p {
     width: 100%;
     text-align: center;
     line-height: 20px;
 }
 
-.sg-heading h2 {
-    padding: 10px;
-    width: 100%;
-    
+.tele-heading h2 a {
+    color: #354F52; 
 }
 
-.sg-heading h2 a{
-    color: #354F52;
-    
-}
-
-.sg-heading h2 a:hover {
+.tele-heading h2 a:hover {
     color:purple;
     text-decoration: underline;
 }
@@ -234,18 +225,9 @@ header a {
 
 .tele-heading h2 {
     padding: 10px;
-    width: 100%;
-    
-}
-.tele-heading h2 a {
-    color: #354F52;
-    
+    width: 100%; 
 }
 
-.tele-heading h2 a:hover {
-    color:purple;
-    text-decoration: underline;
-}
 /* homage images */
 
 #les-eliptical-container {
