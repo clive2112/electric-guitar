@@ -395,7 +395,6 @@ a.esquire:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    
 }
        
  .artist img {
@@ -413,30 +412,6 @@ a.esquire:hover {
     transition: 0.5s;
     border: 3px solid purple;
  }
-
- /*.artist-names {
-    width: 100%;
-    
-    margin-top: -40%;
-    
- }
-
- .artist-names h3{
-    font-family: playfair-display;
-    
-    
-    color: white;
-    font-size: 20px;
-    
- }
- .artist-names p {
-    font-family: playfair-display;
-    
-    text-align: center;
-    color: white;
-    font-size: 20px;
-    
- }*/
 
  /* Style the form element */
     form {
