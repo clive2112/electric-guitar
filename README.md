@@ -74,3 +74,16 @@ All images are related to the electric guitar and guitat players. The main image
 * The footer encourages users to keep up to date and connected via social media.
 
 ![image](https://user-images.githubusercontent.com/111641748/196047221-51ccf104-95e1-4e98-8615-cacd842208d3.png)
+
+
+# **Testing**
+## Validator Testing
+* To verify that the HTML code written following the expected standards, I conducted validator
+testing with the W3C Markup Validator. I fixed the errors and warnings, most of my errors were missing closing tags.
+![image](https://user-images.githubusercontent.com/111641748/196054625-7c05310c-2f41-4ac6-9053-3347fe93e0e5.png)
+
+
+* CSS styling was validated using the W3C CSS Validation Service. I had one error where I was using a redundant styling element, I removed this from my code.
+![image](https://user-images.githubusercontent.com/111641748/196054658-3967467b-0fb9-4d37-9dc9-60387ad8ef9c.png)
+
+
