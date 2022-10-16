@@ -37,6 +37,8 @@ header a {
     text-decoration: none;
 }
 
+
+
 /* navigation links */
 
 .flex-container {
@@ -64,6 +66,15 @@ header a {
     color:purple;
     font-size: 125%;
 }
+
+/* media query for nav */
+@media only screen and (max-width: 350px )
+{
+    .flex-container a {
+        font-size: 20px;
+      }
+}
+
 
 /* main image and cover text*/
 
