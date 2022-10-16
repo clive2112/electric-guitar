@@ -54,3 +54,8 @@ All images are related to the electric guitar and guitat players. The main image
 * The movie section gives the user basic details about different types of guitar.
 * The title and images of guitar are displayed, with links provided to the guitar brand and model.
 ![image](https://user-images.githubusercontent.com/111641748/196045436-b2900bb4-a628-42d5-a8f3-71f3feee4261.png)
+
+
+## The History Section
+* The history section gives the user details a very brief overview of the history of the electric guitar, coupled with an image of a vintage guitar. Contained within the text are links to specific personnel and model.
+![image](https://user-images.githubusercontent.com/111641748/196045765-de842ec2-81ff-46b9-94f7-60189cc6df52.png)
