@@ -462,6 +462,14 @@ a.esquire:hover {
       opacity: 0.8;
     } 
 
+    /* media query for form */
+@media only screen and (max-width: 350px )
+{
+    form{
+        width: 80%;
+    }
+}
+
  /* footer */
  
  footer {
