@@ -239,8 +239,6 @@ header a {
     border-width: 2px;
     border-radius: 50%;
     margin: 0 auto; 
-   
-    
 }
 
 .les-heading p{
@@ -251,9 +249,9 @@ header a {
     background: url(../images/Les\ Paul.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
-    background-size: cover;
-    
+    background-size: cover; 
 }
+
 #strat-eliptical-container {
     width: 80%;
     height: 250px;
@@ -263,7 +261,6 @@ header a {
     border-width: 2px;
     border-radius: 50%;
     margin: 0 auto;
-    
 }
 
 .strat-heading p{
@@ -286,7 +283,6 @@ header a {
     border-width: 2px;
     border-radius: 50%;
     margin: 0 auto;
-    
 }
 
 .sg-heading p{
@@ -320,7 +316,6 @@ header a {
     height: 100%;
     border-radius: 50%;
     background-size: cover;
-    
 }
 
 /* History Section */
@@ -334,10 +329,7 @@ header a {
 #history-section{
     height: auto;
     width: 100%;
-   
-    
     background-color: #CAD2C5;
-   
 }
 
 #history-section > p { 
@@ -374,12 +366,10 @@ a.esquire:hover {
     display: flex;
     height: auto;
     width: 100%;
-    /*overflow: hidden;*/
     position: relative;
-    background-color: black;
-    /*padding-top: 50px;*/
-   
+    background-color: black; 
 }
+
 #vintage-strat {
     /*background: url(../images/57\ strat.jpg) no-repeat center center;*/
     height: auto;
@@ -388,33 +378,8 @@ a.esquire:hover {
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
-    padding-bottom: 20px;
-    
-
-    
+    padding-bottom: 20px;  
 }  
-
-/*.image-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-width: 100%;
-height: 100%;
-background: (0,0,0,0.6);
-color: white;
-font-family: playfair-display, sans-serif;
-display: flex;
-align-items: center;
-justify-content: center;
-opacity: 0;
-}
-.image-overlay:hover{
-opacity: 1;
-}
-.vintage-57 {
-    font-size: 2em;
-    font-weight: bold;
-}*/
 
 /* Artist Gallery */
 
